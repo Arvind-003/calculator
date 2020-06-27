@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 40%;
+    background-color: lightgrey;
+    margin: 10rem auto;
+    padding: 20px ;
+
+}
+.container .header1{
+    width: 100%;
+    font-size: 3rem;
+    text-align: center;
+    background-color: black;
+    color: white;
+    /* padding: 20px; */
+}
+.display{
+    width: 100%;
+    height: 6rem;
+    background-color: white;
+    margin: 10px auto;
+}
+.button table tr td{
+    width: 15rem;
+    height: 4rem;
+    text-align: center;
+    font-size: 2rem;
+    background-color: white;
+}
+.button table tr .operator{
+    background-color: brown;
+    color: white;
+}
